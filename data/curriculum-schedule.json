@@ -1,0 +1,1733 @@
+{
+  "year": 2026,
+  "items": [
+    {
+      "courseId": "A",
+      "unitId": "A-u1",
+      "sessionNo": 1,
+      "date": "4月18日・19日",
+      "dates": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "section": "HTML・CSS の基礎",
+      "lesson": "導入と開発環境の整備"
+    },
+    {
+      "courseId": "A",
+      "unitId": "A-u2",
+      "sessionNo": 2,
+      "date": "4月25日・16日",
+      "dates": [
+        "2026-04-25",
+        "2026-04-16"
+      ],
+      "section": "HTML・CSS の基礎",
+      "lesson": "HTML の基礎"
+    },
+    {
+      "courseId": "A",
+      "unitId": "A-u3",
+      "sessionNo": 3,
+      "date": "5月9日・10日",
+      "dates": [
+        "2026-05-09",
+        "2026-05-10"
+      ],
+      "section": "HTML・CSS の基礎",
+      "lesson": "CSS の基礎"
+    },
+    {
+      "courseId": "A",
+      "unitId": "A-u4",
+      "sessionNo": 4,
+      "date": "5月16日・17日",
+      "dates": [
+        "2026-05-16",
+        "2026-05-17"
+      ],
+      "section": "HTML・CSS の基礎",
+      "lesson": "HTML・CSS 演習 - オリジナルページを作成しよう"
+    },
+    {
+      "courseId": "A",
+      "unitId": "A-u5",
+      "sessionNo": 5,
+      "date": "5月23日・24日",
+      "dates": [
+        "2026-05-23",
+        "2026-05-24"
+      ],
+      "section": "Python の基礎",
+      "lesson": "Python 開発環境の整備と基礎文法"
+    },
+    {
+      "courseId": "A",
+      "unitId": "A-u6",
+      "sessionNo": 6,
+      "date": "5月30日・31日",
+      "dates": [
+        "2026-05-30",
+        "2026-05-31"
+      ],
+      "section": "Python の基礎",
+      "lesson": "Python の基礎文法 - 演習と解説"
+    },
+    {
+      "courseId": "A",
+      "unitId": "A-u7",
+      "sessionNo": 7,
+      "date": "6月6日・7日",
+      "dates": [
+        "2026-06-06",
+        "2026-06-07"
+      ],
+      "section": "Python の基礎",
+      "lesson": "条件分岐と反復"
+    },
+    {
+      "courseId": "A",
+      "unitId": "A-u8",
+      "sessionNo": 8,
+      "date": "6月13日・14日",
+      "dates": [
+        "2026-06-13",
+        "2026-06-14"
+      ],
+      "section": "Python の基礎",
+      "lesson": "関数の定義"
+    },
+    {
+      "courseId": "A",
+      "unitId": "A-u9",
+      "sessionNo": 9,
+      "date": "6月20日・21日",
+      "dates": [
+        "2026-06-20",
+        "2026-06-21"
+      ],
+      "section": "Python の基礎",
+      "lesson": "条件分岐と反復・関数の定義 - 演習と解説"
+    },
+    {
+      "courseId": "A",
+      "unitId": "A-u10",
+      "sessionNo": 10,
+      "date": "6月27日・28日",
+      "dates": [
+        "2026-06-27",
+        "2026-06-28"
+      ],
+      "section": "Python の基礎",
+      "lesson": "クラス"
+    },
+    {
+      "courseId": "A",
+      "unitId": "A-u11",
+      "sessionNo": 11,
+      "date": "7月4日・5日",
+      "dates": [
+        "2026-07-04",
+        "2026-07-05"
+      ],
+      "section": "Python の基礎",
+      "lesson": "モジュール"
+    },
+    {
+      "courseId": "A",
+      "unitId": "A-u12",
+      "sessionNo": 12,
+      "date": "7月11日・12日",
+      "dates": [
+        "2026-07-11",
+        "2026-07-12"
+      ],
+      "section": "Python の基礎",
+      "lesson": "クラス・モジュール - 演習と解説"
+    },
+    {
+      "courseId": "A",
+      "unitId": "A-u13",
+      "sessionNo": 13,
+      "date": "8月22日・23日",
+      "dates": [
+        "2026-08-22",
+        "2026-08-23"
+      ],
+      "section": "Django で投票アプリ作成",
+      "lesson": "Git の基礎"
+    },
+    {
+      "courseId": "A",
+      "unitId": "A-u14",
+      "sessionNo": 14,
+      "date": "8月29日・30日",
+      "dates": [
+        "2026-08-29",
+        "2026-08-30"
+      ],
+      "section": "Django で投票アプリ作成",
+      "lesson": "導入と Django 開発環境の整備"
+    },
+    {
+      "courseId": "A",
+      "unitId": "A-u15",
+      "sessionNo": 15,
+      "date": "9月5日・6日",
+      "dates": [
+        "2026-09-05",
+        "2026-09-06"
+      ],
+      "section": "Django で投票アプリ作成",
+      "lesson": "ビュー"
+    },
+    {
+      "courseId": "A",
+      "unitId": "A-u16",
+      "sessionNo": 16,
+      "date": "9月12日・13日",
+      "dates": [
+        "2026-09-12",
+        "2026-09-13"
+      ],
+      "section": "Django で投票アプリ作成",
+      "lesson": "テンプレート"
+    },
+    {
+      "courseId": "A",
+      "unitId": "A-u17",
+      "sessionNo": 17,
+      "date": "9月26日・27日",
+      "dates": [
+        "2026-09-26",
+        "2026-09-27"
+      ],
+      "section": "Django で投票アプリ作成",
+      "lesson": "モデル・管理者サイト"
+    },
+    {
+      "courseId": "A",
+      "unitId": "A-u18",
+      "sessionNo": 18,
+      "date": "10月3日・4日",
+      "dates": [
+        "2026-10-03",
+        "2026-10-04"
+      ],
+      "section": "Django で投票アプリ作成",
+      "lesson": "データベースの操作"
+    },
+    {
+      "courseId": "A",
+      "unitId": "A-u19",
+      "sessionNo": 19,
+      "date": "10月17日・18日",
+      "dates": [
+        "2026-10-17",
+        "2026-10-18"
+      ],
+      "section": "Django で投票アプリ作成",
+      "lesson": "フォーム"
+    },
+    {
+      "courseId": "A",
+      "unitId": "A-u20",
+      "sessionNo": 20,
+      "date": "10月24日・25日",
+      "dates": [
+        "2026-10-24",
+        "2026-10-25"
+      ],
+      "section": "Django で投票アプリ作成",
+      "lesson": "質問一覧画面と投票画面の見た目の改善"
+    },
+    {
+      "courseId": "A",
+      "unitId": "A-u21",
+      "sessionNo": 21,
+      "date": "11月31日・1日",
+      "dates": [
+        "2026-11-31",
+        "2026-11-01"
+      ],
+      "section": "Django で投票アプリ作成",
+      "lesson": "結果確認画面の作成"
+    },
+    {
+      "courseId": "A",
+      "unitId": "A-u22",
+      "sessionNo": 22,
+      "date": "11月7日・8日",
+      "dates": [
+        "2026-11-07",
+        "2026-11-08"
+      ],
+      "section": "Django で掲示板アプリ作成",
+      "lesson": "環境構築 - 演習"
+    },
+    {
+      "courseId": "A",
+      "unitId": "A-u23",
+      "sessionNo": 23,
+      "date": "11月14日・15日",
+      "dates": [
+        "2026-11-14",
+        "2026-11-15"
+      ],
+      "section": "Django で掲示板アプリ作成",
+      "lesson": "一覧画面作成 - 演習"
+    },
+    {
+      "courseId": "A",
+      "unitId": "A-u24",
+      "sessionNo": 24,
+      "date": "11月21日・22日",
+      "dates": [
+        "2026-11-21",
+        "2026-11-22"
+      ],
+      "section": "Django で掲示板アプリ作成",
+      "lesson": "詳細画面作成 - 演習"
+    },
+    {
+      "courseId": "A",
+      "unitId": "A-u25",
+      "sessionNo": 25,
+      "date": "11月28日・29日",
+      "dates": [
+        "2026-11-28",
+        "2026-11-29"
+      ],
+      "section": "Django で掲示板アプリ作成",
+      "lesson": "投稿機能作成 - 演習"
+    },
+    {
+      "courseId": "A",
+      "unitId": "A-u26",
+      "sessionNo": 26,
+      "date": "12月5日・6日",
+      "dates": [
+        "2026-12-05",
+        "2026-12-06"
+      ],
+      "section": "Django で掲示板アプリ作成",
+      "lesson": "投稿削除機能作成 - 演習"
+    },
+    {
+      "courseId": "A",
+      "unitId": "A-u27",
+      "sessionNo": 27,
+      "date": "12月12日・13日",
+      "dates": [
+        "2026-12-12",
+        "2026-12-13"
+      ],
+      "section": "Django で掲示板アプリ作成",
+      "lesson": "見た目を改善する - 演習"
+    },
+    {
+      "courseId": "A",
+      "unitId": "A-u28",
+      "sessionNo": 28,
+      "date": "1月9日・10日",
+      "dates": [
+        "2026-01-09",
+        "2026-01-10"
+      ],
+      "section": "Django でチャットアプリを作ろう",
+      "lesson": "初期設定"
+    },
+    {
+      "courseId": "A",
+      "unitId": "A-u29",
+      "sessionNo": 29,
+      "date": "1月16日・17日",
+      "dates": [
+        "2026-01-16",
+        "2026-01-17"
+      ],
+      "section": "Django でチャットアプリを作ろう",
+      "lesson": "会員登録機能の作成"
+    },
+    {
+      "courseId": "A",
+      "unitId": "A-u30",
+      "sessionNo": 30,
+      "date": "1月23日・24日",
+      "dates": [
+        "2026-01-23",
+        "2026-01-24"
+      ],
+      "section": "Django でチャットアプリを作ろう",
+      "lesson": "ログインページの作成"
+    },
+    {
+      "courseId": "A",
+      "unitId": "A-u31",
+      "sessionNo": 31,
+      "date": "1月30日・31日",
+      "dates": [
+        "2026-01-30",
+        "2026-01-31"
+      ],
+      "section": "Django でチャットアプリを作ろう",
+      "lesson": "フレンド一覧表示機能の作成"
+    },
+    {
+      "courseId": "A",
+      "unitId": "A-u32",
+      "sessionNo": 32,
+      "date": "2月6日・7日",
+      "dates": [
+        "2026-02-06",
+        "2026-02-07"
+      ],
+      "section": "Django でチャットアプリを作ろう",
+      "lesson": "トーク画面の表示"
+    },
+    {
+      "courseId": "A",
+      "unitId": "A-u33",
+      "sessionNo": 33,
+      "date": "2月20日・21日",
+      "dates": [
+        "2026-02-20",
+        "2026-02-21"
+      ],
+      "section": "Django でチャットアプリを作ろう",
+      "lesson": "チャット機能の作成"
+    },
+    {
+      "courseId": "A",
+      "unitId": "A-u34",
+      "sessionNo": 34,
+      "date": "2月27日・28日",
+      "dates": [
+        "2026-02-27",
+        "2026-02-28"
+      ],
+      "section": "Django でチャットアプリを作ろう",
+      "lesson": "設定ページの作成"
+    },
+    {
+      "courseId": "A",
+      "unitId": "A-u35",
+      "sessionNo": 35,
+      "date": "3月6日・7日",
+      "dates": [
+        "2026-03-06",
+        "2026-03-07"
+      ],
+      "section": "Django でチャットアプリを作ろう",
+      "lesson": "ユーザーアイコンの設定"
+    },
+    {
+      "courseId": "A",
+      "unitId": "A-u36",
+      "sessionNo": 36,
+      "date": "3月13日・14日",
+      "dates": [
+        "2026-03-13",
+        "2026-03-14"
+      ],
+      "section": "Django でチャットアプリを作ろう",
+      "lesson": "見た目を整える"
+    },
+    {
+      "courseId": "B1",
+      "unitId": "B1-u1",
+      "sessionNo": 1,
+      "date": "4月18日・19日",
+      "dates": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "section": "Django 発展",
+      "lesson": "クラスベースビュー"
+    },
+    {
+      "courseId": "B1",
+      "unitId": "B1-u2",
+      "sessionNo": 2,
+      "date": "4月25日・16日",
+      "dates": [
+        "2026-04-25",
+        "2026-04-16"
+      ],
+      "section": "Django 発展",
+      "lesson": "Django 発展 1 - 演習"
+    },
+    {
+      "courseId": "B1",
+      "unitId": "B1-u3",
+      "sessionNo": 3,
+      "date": "5月9日・10日",
+      "dates": [
+        "2026-05-09",
+        "2026-05-10"
+      ],
+      "section": "Django 発展",
+      "lesson": "Django 発展 2 - 演習"
+    },
+    {
+      "courseId": "B1",
+      "unitId": "B1-u4",
+      "sessionNo": 4,
+      "date": "5月16日・17日",
+      "dates": [
+        "2026-05-16",
+        "2026-05-17"
+      ],
+      "section": "Django 発展",
+      "lesson": "ユーザー検索機能の追加"
+    },
+    {
+      "courseId": "B1",
+      "unitId": "B1-u5",
+      "sessionNo": 5,
+      "date": "5月23日・24日",
+      "dates": [
+        "2026-05-23",
+        "2026-05-24"
+      ],
+      "section": "Django 発展",
+      "lesson": "カスタムテンプレートタグ"
+    },
+    {
+      "courseId": "B1",
+      "unitId": "B1-u6",
+      "sessionNo": 6,
+      "date": "5月30日・31日",
+      "dates": [
+        "2026-05-30",
+        "2026-05-31"
+      ],
+      "section": "Django 発展",
+      "lesson": "Django 発展 3 - 演習"
+    },
+    {
+      "courseId": "B1",
+      "unitId": "B1-u7",
+      "sessionNo": 7,
+      "date": "6月6日・7日",
+      "dates": [
+        "2026-06-06",
+        "2026-06-07"
+      ],
+      "section": "Django 発展",
+      "lesson": "Django 発展 4 - 演習"
+    },
+    {
+      "courseId": "B1",
+      "unitId": "B1-u8",
+      "sessionNo": 8,
+      "date": "6月13日・14日",
+      "dates": [
+        "2026-06-13",
+        "2026-06-14"
+      ],
+      "section": "More Django - EC サイト",
+      "lesson": "EC サイトの概要"
+    },
+    {
+      "courseId": "B1",
+      "unitId": "B1-u9",
+      "sessionNo": 9,
+      "date": "6月20日・21日",
+      "dates": [
+        "2026-06-20",
+        "2026-06-21"
+      ],
+      "section": "More Django - EC サイト",
+      "lesson": "設定とアカウント画面の実装"
+    },
+    {
+      "courseId": "B1",
+      "unitId": "B1-u10",
+      "sessionNo": 10,
+      "date": "6月27日・28日",
+      "dates": [
+        "2026-06-27",
+        "2026-06-28"
+      ],
+      "section": "More Django - EC サイト",
+      "lesson": "商品一覧画面の実装"
+    },
+    {
+      "courseId": "B1",
+      "unitId": "B1-u11",
+      "sessionNo": 11,
+      "date": "7月4日・5日",
+      "dates": [
+        "2026-07-04",
+        "2026-07-05"
+      ],
+      "section": "More Django - EC サイト",
+      "lesson": "商品詳細画面の実装"
+    },
+    {
+      "courseId": "B1",
+      "unitId": "B1-u12",
+      "sessionNo": 12,
+      "date": "7月11日・12日",
+      "dates": [
+        "2026-07-11",
+        "2026-07-12"
+      ],
+      "section": "More Django - EC サイト",
+      "lesson": "カート機能を実装する 1"
+    },
+    {
+      "courseId": "B1",
+      "unitId": "B1-u13",
+      "sessionNo": 13,
+      "date": "8月22日・23日",
+      "dates": [
+        "2026-08-22",
+        "2026-08-23"
+      ],
+      "section": "More Django - EC サイト",
+      "lesson": "カート機能を実装する 2"
+    },
+    {
+      "courseId": "B1",
+      "unitId": "B1-u14",
+      "sessionNo": 14,
+      "date": "8月29日・30日",
+      "dates": [
+        "2026-08-29",
+        "2026-08-30"
+      ],
+      "section": "More Django - EC サイト",
+      "lesson": "Stripe を導入する"
+    },
+    {
+      "courseId": "B1",
+      "unitId": "B1-u15",
+      "sessionNo": 15,
+      "date": "9月5日・6日",
+      "dates": [
+        "2026-09-05",
+        "2026-09-06"
+      ],
+      "section": "要件定義",
+      "lesson": "要件定義 1"
+    },
+    {
+      "courseId": "B1",
+      "unitId": "B1-u16",
+      "sessionNo": 16,
+      "date": "9月12日・13日",
+      "dates": [
+        "2026-09-12",
+        "2026-09-13"
+      ],
+      "section": "要件定義",
+      "lesson": "要件定義 2"
+    },
+    {
+      "courseId": "B1",
+      "unitId": "B1-u17",
+      "sessionNo": 17,
+      "date": "9月26日・27日",
+      "dates": [
+        "2026-09-26",
+        "2026-09-27"
+      ],
+      "section": "クエリ最適化",
+      "lesson": "ダミーデータ作成"
+    },
+    {
+      "courseId": "B1",
+      "unitId": "B1-u18",
+      "sessionNo": 18,
+      "date": "10月3日・4日",
+      "dates": [
+        "2026-10-03",
+        "2026-10-04"
+      ],
+      "section": "クエリ最適化",
+      "lesson": "クエリ最適化 1"
+    },
+    {
+      "courseId": "B1",
+      "unitId": "B1-u19",
+      "sessionNo": 19,
+      "date": "10月17日・18日",
+      "dates": [
+        "2026-10-17",
+        "2026-10-18"
+      ],
+      "section": "クエリ最適化",
+      "lesson": "クエリ最適化 2"
+    },
+    {
+      "courseId": "B1",
+      "unitId": "B1-u20",
+      "sessionNo": 20,
+      "date": "10月24日・25日",
+      "dates": [
+        "2026-10-24",
+        "2026-10-25"
+      ],
+      "section": "クエリ最適化",
+      "lesson": "クエリ最適化 3"
+    },
+    {
+      "courseId": "B1",
+      "unitId": "B1-u21",
+      "sessionNo": 21,
+      "date": "11月31日・1日",
+      "dates": [
+        "2026-11-31",
+        "2026-11-01"
+      ],
+      "section": "クエリ最適化",
+      "lesson": "クエリ最適化 1 - 演習"
+    },
+    {
+      "courseId": "B1",
+      "unitId": "B1-u22",
+      "sessionNo": 22,
+      "date": "11月7日・8日",
+      "dates": [
+        "2026-11-07",
+        "2026-11-08"
+      ],
+      "section": "クエリ最適化",
+      "lesson": "クエリ最適化 2 - 演習"
+    },
+    {
+      "courseId": "B1",
+      "unitId": "B1-u23",
+      "sessionNo": 23,
+      "date": "11月14日・15日",
+      "dates": [
+        "2026-11-14",
+        "2026-11-15"
+      ],
+      "section": "ロギング",
+      "lesson": "ロギング - 基礎"
+    },
+    {
+      "courseId": "B1",
+      "unitId": "B1-u24",
+      "sessionNo": 24,
+      "date": "11月21日・22日",
+      "dates": [
+        "2026-11-21",
+        "2026-11-22"
+      ],
+      "section": "ロギング",
+      "lesson": "ロギング - 応用"
+    },
+    {
+      "courseId": "B1",
+      "unitId": "B1-u25",
+      "sessionNo": 25,
+      "date": "11月28日・29日",
+      "dates": [
+        "2026-11-28",
+        "2026-11-29"
+      ],
+      "section": "テストコード",
+      "lesson": "テストコードを書く 1"
+    },
+    {
+      "courseId": "B1",
+      "unitId": "B1-u26",
+      "sessionNo": 26,
+      "date": "12月5日・6日",
+      "dates": [
+        "2026-12-05",
+        "2026-12-06"
+      ],
+      "section": "テストコード",
+      "lesson": "テストコードを書く 2"
+    },
+    {
+      "courseId": "B1",
+      "unitId": "B1-u27",
+      "sessionNo": 27,
+      "date": "12月12日・13日",
+      "dates": [
+        "2026-12-12",
+        "2026-12-13"
+      ],
+      "section": "テストコード",
+      "lesson": "テストコード - 演習"
+    },
+    {
+      "courseId": "B1",
+      "unitId": "B1-u28",
+      "sessionNo": 28,
+      "date": "1月9日・10日",
+      "dates": [
+        "2026-01-09",
+        "2026-01-10"
+      ],
+      "section": "More Django - SNS アプリ",
+      "lesson": "SNS アプリ"
+    },
+    {
+      "courseId": "B1",
+      "unitId": "B1-u29",
+      "sessionNo": 29,
+      "date": "1月16日・17日",
+      "dates": [
+        "2026-01-16",
+        "2026-01-17"
+      ],
+      "section": "More Django - SNS アプリ",
+      "lesson": "メールアドレス認証の実装"
+    },
+    {
+      "courseId": "B1",
+      "unitId": "B1-u30",
+      "sessionNo": 30,
+      "date": "1月23日・24日",
+      "dates": [
+        "2026-01-23",
+        "2026-01-24"
+      ],
+      "section": "More Django - SNS アプリ",
+      "lesson": "パスワードリセット機能の実装"
+    },
+    {
+      "courseId": "B1",
+      "unitId": "B1-u31",
+      "sessionNo": 31,
+      "date": "1月30日・31日",
+      "dates": [
+        "2026-01-30",
+        "2026-01-31"
+      ],
+      "section": "More Django - SNS アプリ",
+      "lesson": "コメント機能の実装"
+    },
+    {
+      "courseId": "B1",
+      "unitId": "B1-u32",
+      "sessionNo": 32,
+      "date": "2月6日・7日",
+      "dates": [
+        "2026-02-06",
+        "2026-02-07"
+      ],
+      "section": "More Django - SNS アプリ",
+      "lesson": "プロフィールページの実装"
+    },
+    {
+      "courseId": "B1",
+      "unitId": "B1-u33",
+      "sessionNo": 33,
+      "date": "2月20日・21日",
+      "dates": [
+        "2026-02-20",
+        "2026-02-21"
+      ],
+      "section": "More Django - SNS アプリ",
+      "lesson": "フォローリストページの実装"
+    },
+    {
+      "courseId": "B1",
+      "unitId": "B1-u34",
+      "sessionNo": 34,
+      "date": "2月27日・28日",
+      "dates": [
+        "2026-02-27",
+        "2026-02-28"
+      ],
+      "section": "More Django - SNS アプリ",
+      "lesson": "フォロー機能の実装"
+    },
+    {
+      "courseId": "B1",
+      "unitId": "B1-u35",
+      "sessionNo": 35,
+      "date": "3月6日・7日",
+      "dates": [
+        "2026-03-06",
+        "2026-03-07"
+      ],
+      "section": "More Django - SNS アプリ",
+      "lesson": "禁止ワード機能とテストコードの実装"
+    },
+    {
+      "courseId": "B1",
+      "unitId": "B1-u36",
+      "sessionNo": 36,
+      "date": "3月13日・14日",
+      "dates": [
+        "2026-03-13",
+        "2026-03-14"
+      ],
+      "section": "More Django - SNS アプリ",
+      "lesson": "SNS アプリのデプロイ"
+    },
+    {
+      "courseId": "B2",
+      "unitId": "B2-u1",
+      "sessionNo": 1,
+      "date": "4月18日・19日",
+      "dates": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "section": "Dart 講座",
+      "lesson": "Dart 環境構築と基礎"
+    },
+    {
+      "courseId": "B2",
+      "unitId": "B2-u2",
+      "sessionNo": 2,
+      "date": "4月25日・16日",
+      "dates": [
+        "2026-04-25",
+        "2026-04-16"
+      ],
+      "section": "Dart 講座",
+      "lesson": "変数・定数・関数"
+    },
+    {
+      "courseId": "B2",
+      "unitId": "B2-u3",
+      "sessionNo": 3,
+      "date": "5月9日・10日",
+      "dates": [
+        "2026-05-09",
+        "2026-05-10"
+      ],
+      "section": "Dart 講座",
+      "lesson": "制御文"
+    },
+    {
+      "courseId": "B2",
+      "unitId": "B2-u4",
+      "sessionNo": 4,
+      "date": "5月16日・17日",
+      "dates": [
+        "2026-05-16",
+        "2026-05-17"
+      ],
+      "section": "Dart 講座",
+      "lesson": "クラス"
+    },
+    {
+      "courseId": "B2",
+      "unitId": "B2-u5",
+      "sessionNo": 5,
+      "date": "5月23日・24日",
+      "dates": [
+        "2026-05-23",
+        "2026-05-24"
+      ],
+      "section": "Dart 講座",
+      "lesson": "Dart 演習"
+    },
+    {
+      "courseId": "B2",
+      "unitId": "B2-u6",
+      "sessionNo": 6,
+      "date": "5月30日・31日",
+      "dates": [
+        "2026-05-30",
+        "2026-05-31"
+      ],
+      "section": "Flutter 講座",
+      "lesson": "Flutter 環境構築"
+    },
+    {
+      "courseId": "B2",
+      "unitId": "B2-u7",
+      "sessionNo": 7,
+      "date": "6月6日・7日",
+      "dates": [
+        "2026-06-06",
+        "2026-06-07"
+      ],
+      "section": "Flutter 講座",
+      "lesson": "SNS アプリ - テキスト表示"
+    },
+    {
+      "courseId": "B2",
+      "unitId": "B2-u8",
+      "sessionNo": 8,
+      "date": "6月13日・14日",
+      "dates": [
+        "2026-06-13",
+        "2026-06-14"
+      ],
+      "section": "Flutter 講座",
+      "lesson": "SNS アプリ - レイアウト調整"
+    },
+    {
+      "courseId": "B2",
+      "unitId": "B2-u9",
+      "sessionNo": 9,
+      "date": "6月20日・21日",
+      "dates": [
+        "2026-06-20",
+        "2026-06-21"
+      ],
+      "section": "Flutter 講座",
+      "lesson": "SNS アプリ - 画像表示"
+    },
+    {
+      "courseId": "B2",
+      "unitId": "B2-u10",
+      "sessionNo": 10,
+      "date": "6月27日・28日",
+      "dates": [
+        "2026-06-27",
+        "2026-06-28"
+      ],
+      "section": "Flutter 講座",
+      "lesson": "SNS アプリ - リスト表示"
+    },
+    {
+      "courseId": "B2",
+      "unitId": "B2-u11",
+      "sessionNo": 11,
+      "date": "7月4日・5日",
+      "dates": [
+        "2026-07-04",
+        "2026-07-05"
+      ],
+      "section": "Flutter 講座",
+      "lesson": "SNS アプリ - 画面遷移"
+    },
+    {
+      "courseId": "B2",
+      "unitId": "B2-u12",
+      "sessionNo": 12,
+      "date": "7月11日・12日",
+      "dates": [
+        "2026-07-11",
+        "2026-07-12"
+      ],
+      "section": "Flutter 講座",
+      "lesson": "SNS アプリ - フォーム"
+    },
+    {
+      "courseId": "B2",
+      "unitId": "B2-u13",
+      "sessionNo": 13,
+      "date": "8月22日・23日",
+      "dates": [
+        "2026-08-22",
+        "2026-08-23"
+      ],
+      "section": "Flutter クイズアプリ作成１",
+      "lesson": "立ち上げ"
+    },
+    {
+      "courseId": "B2",
+      "unitId": "B2-u14",
+      "sessionNo": 14,
+      "date": "8月29日・30日",
+      "dates": [
+        "2026-08-29",
+        "2026-08-30"
+      ],
+      "section": "Flutter クイズアプリ作成１",
+      "lesson": "一覧画面"
+    },
+    {
+      "courseId": "B2",
+      "unitId": "B2-u15",
+      "sessionNo": 15,
+      "date": "9月5日・6日",
+      "dates": [
+        "2026-09-05",
+        "2026-09-06"
+      ],
+      "section": "Flutter クイズアプリ作成１",
+      "lesson": "タップすると答えが表示される"
+    },
+    {
+      "courseId": "B2",
+      "unitId": "B2-u16",
+      "sessionNo": 16,
+      "date": "9月12日・13日",
+      "dates": [
+        "2026-09-12",
+        "2026-09-13"
+      ],
+      "section": "Flutter クイズアプリ作成１",
+      "lesson": "追加画面"
+    },
+    {
+      "courseId": "B2",
+      "unitId": "B2-u17",
+      "sessionNo": 17,
+      "date": "9月26日・27日",
+      "dates": [
+        "2026-09-26",
+        "2026-09-27"
+      ],
+      "section": "Flutter 状態管理",
+      "lesson": "状態管理"
+    },
+    {
+      "courseId": "B2",
+      "unitId": "B2-u18",
+      "sessionNo": 18,
+      "date": "10月3日・4日",
+      "dates": [
+        "2026-10-03",
+        "2026-10-04"
+      ],
+      "section": "Flutter 状態管理",
+      "lesson": "状態管理"
+    },
+    {
+      "courseId": "B2",
+      "unitId": "B2-u19",
+      "sessionNo": 19,
+      "date": "10月17日・18日",
+      "dates": [
+        "2026-10-17",
+        "2026-10-18"
+      ],
+      "section": "Flutter 状態管理",
+      "lesson": "クイズアプリのRiverpod書き換え"
+    },
+    {
+      "courseId": "B2",
+      "unitId": "B2-u20",
+      "sessionNo": 20,
+      "date": "10月24日・25日",
+      "dates": [
+        "2026-10-24",
+        "2026-10-25"
+      ],
+      "section": "Flutter 状態管理",
+      "lesson": "クイズアプリのRiverpod書き換え"
+    },
+    {
+      "courseId": "B2",
+      "unitId": "B2-u21",
+      "sessionNo": 21,
+      "date": "11月31日・1日",
+      "dates": [
+        "2026-11-31",
+        "2026-11-01"
+      ],
+      "section": "Flutter 状態管理",
+      "lesson": "クイズアプリのRiverpod書き換え"
+    },
+    {
+      "courseId": "B2",
+      "unitId": "B2-u22",
+      "sessionNo": 22,
+      "date": "11月7日・8日",
+      "dates": [
+        "2026-11-07",
+        "2026-11-08"
+      ],
+      "section": "Flutter クイズアプリ作成２",
+      "lesson": "ジャンルの概念の追加"
+    },
+    {
+      "courseId": "B2",
+      "unitId": "B2-u23",
+      "sessionNo": 23,
+      "date": "11月14日・15日",
+      "dates": [
+        "2026-11-14",
+        "2026-11-15"
+      ],
+      "section": "Flutter クイズアプリ作成２",
+      "lesson": "詳細画面の完成"
+    },
+    {
+      "courseId": "B2",
+      "unitId": "B2-u24",
+      "sessionNo": 24,
+      "date": "11月21日・22日",
+      "dates": [
+        "2026-11-21",
+        "2026-11-22"
+      ],
+      "section": "Flutter クイズアプリ作成２",
+      "lesson": "Dart文法：非同期処理"
+    },
+    {
+      "courseId": "B2",
+      "unitId": "B2-u25",
+      "sessionNo": 25,
+      "date": "11月28日・29日",
+      "dates": [
+        "2026-11-28",
+        "2026-11-29"
+      ],
+      "section": "Flutter クイズアプリ作成２",
+      "lesson": "sqlite１"
+    },
+    {
+      "courseId": "B2",
+      "unitId": "B2-u26",
+      "sessionNo": 26,
+      "date": "12月5日・6日",
+      "dates": [
+        "2026-12-05",
+        "2026-12-06"
+      ],
+      "section": "Flutter クイズアプリ作成２",
+      "lesson": "sqlite２"
+    },
+    {
+      "courseId": "B2",
+      "unitId": "B2-u27",
+      "sessionNo": 27,
+      "date": "12月12日・13日",
+      "dates": [
+        "2026-12-12",
+        "2026-12-13"
+      ],
+      "section": "Flutter クイズアプリ作成２",
+      "lesson": "sqlite３"
+    },
+    {
+      "courseId": "B2",
+      "unitId": "B2-u28",
+      "sessionNo": 28,
+      "date": "1月9日・10日",
+      "dates": [
+        "2026-01-09",
+        "2026-01-10"
+      ],
+      "section": "Flutter 学習管理アプリ",
+      "lesson": "立ち上げ、構造作成"
+    },
+    {
+      "courseId": "B2",
+      "unitId": "B2-u29",
+      "sessionNo": 29,
+      "date": "1月16日・17日",
+      "dates": [
+        "2026-01-16",
+        "2026-01-17"
+      ],
+      "section": "Flutter 学習管理アプリ",
+      "lesson": "SQLiteの用意"
+    },
+    {
+      "courseId": "B2",
+      "unitId": "B2-u30",
+      "sessionNo": 30,
+      "date": "1月23日・24日",
+      "dates": [
+        "2026-01-23",
+        "2026-01-24"
+      ],
+      "section": "Flutter 学習管理アプリ",
+      "lesson": "科目作成機能"
+    },
+    {
+      "courseId": "B2",
+      "unitId": "B2-u31",
+      "sessionNo": 31,
+      "date": "1月30日・31日",
+      "dates": [
+        "2026-01-30",
+        "2026-01-31"
+      ],
+      "section": "Flutter 学習管理アプリ",
+      "lesson": "学習記録の作成１"
+    },
+    {
+      "courseId": "B2",
+      "unitId": "B2-u32",
+      "sessionNo": 32,
+      "date": "2月6日・7日",
+      "dates": [
+        "2026-02-06",
+        "2026-02-07"
+      ],
+      "section": "Flutter 学習管理アプリ",
+      "lesson": "学習記録の作成２"
+    },
+    {
+      "courseId": "B2",
+      "unitId": "B2-u33",
+      "sessionNo": 33,
+      "date": "2月20日・21日",
+      "dates": [
+        "2026-02-20",
+        "2026-02-21"
+      ],
+      "section": "Flutter 学習管理アプリ",
+      "lesson": "サマリページの作成"
+    },
+    {
+      "courseId": "B2",
+      "unitId": "B2-u34",
+      "sessionNo": 34,
+      "date": "2月27日・28日",
+      "dates": [
+        "2026-02-27",
+        "2026-02-28"
+      ],
+      "section": "Flutter 学習管理アプリ",
+      "lesson": "一度保存したデータの編集"
+    },
+    {
+      "courseId": "B2",
+      "unitId": "B2-u35",
+      "sessionNo": 35,
+      "date": "3月6日・7日",
+      "dates": [
+        "2026-03-06",
+        "2026-03-07"
+      ],
+      "section": "Flutter 学習管理アプリ",
+      "lesson": "ローカル通知"
+    },
+    {
+      "courseId": "B2",
+      "unitId": "B2-u36",
+      "sessionNo": 36,
+      "date": "3月13日・14日",
+      "dates": [
+        "2026-03-13",
+        "2026-03-14"
+      ],
+      "section": "Flutter 学習管理アプリ",
+      "lesson": "見た目を整える"
+    },
+    {
+      "courseId": "C",
+      "unitId": "C-u1",
+      "sessionNo": 1,
+      "date": "4月18日・19日",
+      "dates": [
+        "2026-04-18",
+        "2026-04-19"
+      ],
+      "section": "Django REST framework   API 開発",
+      "lesson": "アプリの初期設定"
+    },
+    {
+      "courseId": "C",
+      "unitId": "C-u2",
+      "sessionNo": 2,
+      "date": "4月25日・16日",
+      "dates": [
+        "2026-04-25",
+        "2026-04-16"
+      ],
+      "section": "Django REST framework   API 開発",
+      "lesson": "シリアライザ"
+    },
+    {
+      "courseId": "C",
+      "unitId": "C-u3",
+      "sessionNo": 3,
+      "date": "5月9日・10日",
+      "dates": [
+        "2026-05-09",
+        "2026-05-10"
+      ],
+      "section": "Django REST framework   API 開発",
+      "lesson": "ビュー"
+    },
+    {
+      "courseId": "C",
+      "unitId": "C-u4",
+      "sessionNo": 4,
+      "date": "5月16日・17日",
+      "dates": [
+        "2026-05-16",
+        "2026-05-17"
+      ],
+      "section": "Django REST framework   API 開発",
+      "lesson": "カテゴリ一覧画面の表示"
+    },
+    {
+      "courseId": "C",
+      "unitId": "C-u5",
+      "sessionNo": 5,
+      "date": "5月23日・24日",
+      "dates": [
+        "2026-05-23",
+        "2026-05-24"
+      ],
+      "section": "Django REST framework   API 開発",
+      "lesson": "カテゴリデータ追加"
+    },
+    {
+      "courseId": "C",
+      "unitId": "C-u6",
+      "sessionNo": 6,
+      "date": "5月30日・31日",
+      "dates": [
+        "2026-05-30",
+        "2026-05-31"
+      ],
+      "section": "Django REST framework   API 開発",
+      "lesson": "カテゴリデータ編集・削除"
+    },
+    {
+      "courseId": "C",
+      "unitId": "C-u7",
+      "sessionNo": 7,
+      "date": "6月6日・7日",
+      "dates": [
+        "2026-06-06",
+        "2026-06-07"
+      ],
+      "section": "Django REST framework   API 開発",
+      "lesson": "レシピデータの API 開発 - 演習"
+    },
+    {
+      "courseId": "C",
+      "unitId": "C-u8",
+      "sessionNo": 8,
+      "date": "6月13日・14日",
+      "dates": [
+        "2026-06-13",
+        "2026-06-14"
+      ],
+      "section": "Django REST framework   API 開発",
+      "lesson": "レシピ一覧画面の表示 - 演習"
+    },
+    {
+      "courseId": "C",
+      "unitId": "C-u9",
+      "sessionNo": 9,
+      "date": "6月20日・21日",
+      "dates": [
+        "2026-06-20",
+        "2026-06-21"
+      ],
+      "section": "Django REST framework   API 開発",
+      "lesson": "レシピデータ追加 - 演習"
+    },
+    {
+      "courseId": "C",
+      "unitId": "C-u10",
+      "sessionNo": 10,
+      "date": "6月27日・28日",
+      "dates": [
+        "2026-06-27",
+        "2026-06-28"
+      ],
+      "section": "Django REST framework   API 開発",
+      "lesson": "レシピデータ編集・削除 - 演習"
+    },
+    {
+      "courseId": "C",
+      "unitId": "C-u11",
+      "sessionNo": 11,
+      "date": "7月4日・5日",
+      "dates": [
+        "2026-07-04",
+        "2026-07-05"
+      ],
+      "section": "Django REST framework   API 開発",
+      "lesson": "コメントデータ API 開発 - 演習"
+    },
+    {
+      "courseId": "C",
+      "unitId": "C-u12",
+      "sessionNo": 12,
+      "date": "7月11日・12日",
+      "dates": [
+        "2026-07-11",
+        "2026-07-12"
+      ],
+      "section": "Django REST framework   API 開発",
+      "lesson": "コメント投稿画面 - 演習"
+    },
+    {
+      "courseId": "C",
+      "unitId": "C-u13",
+      "sessionNo": 13,
+      "date": "8月22日・23日",
+      "dates": [
+        "2026-08-22",
+        "2026-08-23"
+      ],
+      "section": "Flutter SNS",
+      "lesson": "アプリの初期設定"
+    },
+    {
+      "courseId": "C",
+      "unitId": "C-u14",
+      "sessionNo": 14,
+      "date": "8月29日・30日",
+      "dates": [
+        "2026-08-29",
+        "2026-08-30"
+      ],
+      "section": "Flutter SNS",
+      "lesson": "API エンドポイントの定義 - ユーザー登録機能"
+    },
+    {
+      "courseId": "C",
+      "unitId": "C-u15",
+      "sessionNo": 15,
+      "date": "9月5日・6日",
+      "dates": [
+        "2026-09-05",
+        "2026-09-06"
+      ],
+      "section": "Flutter SNS",
+      "lesson": "API エンドポイントの定義 - ログイン機能"
+    },
+    {
+      "courseId": "C",
+      "unitId": "C-u16",
+      "sessionNo": 16,
+      "date": "9月12日・13日",
+      "dates": [
+        "2026-09-12",
+        "2026-09-13"
+      ],
+      "section": "Flutter SNS",
+      "lesson": "ログイン画面の作成"
+    },
+    {
+      "courseId": "C",
+      "unitId": "C-u17",
+      "sessionNo": 17,
+      "date": "9月26日・27日",
+      "dates": [
+        "2026-09-26",
+        "2026-09-27"
+      ],
+      "section": "Flutter SNS",
+      "lesson": "ログイン画面におけるロジックの実装"
+    },
+    {
+      "courseId": "C",
+      "unitId": "C-u18",
+      "sessionNo": 18,
+      "date": "10月3日・4日",
+      "dates": [
+        "2026-10-03",
+        "2026-10-04"
+      ],
+      "section": "Flutter SNS",
+      "lesson": "会員登録画面の作成"
+    },
+    {
+      "courseId": "C",
+      "unitId": "C-u19",
+      "sessionNo": 19,
+      "date": "10月17日・18日",
+      "dates": [
+        "2026-10-17",
+        "2026-10-18"
+      ],
+      "section": "Flutter SNS",
+      "lesson": "会員登録画面におけるロジックの実装"
+    },
+    {
+      "courseId": "C",
+      "unitId": "C-u20",
+      "sessionNo": 20,
+      "date": "10月24日・25日",
+      "dates": [
+        "2026-10-24",
+        "2026-10-25"
+      ],
+      "section": "Flutter SNS",
+      "lesson": "API エンドポイントの定義 - 投稿一覧"
+    },
+    {
+      "courseId": "C",
+      "unitId": "C-u21",
+      "sessionNo": 21,
+      "date": "11月31日・1日",
+      "dates": [
+        "2026-11-31",
+        "2026-11-01"
+      ],
+      "section": "Flutter SNS",
+      "lesson": "投稿一覧取得 API を 呼び出す"
+    },
+    {
+      "courseId": "C",
+      "unitId": "C-u22",
+      "sessionNo": 22,
+      "date": "11月7日・8日",
+      "dates": [
+        "2026-11-07",
+        "2026-11-08"
+      ],
+      "section": "Flutter SNS",
+      "lesson": "ホーム画面の作成"
+    },
+    {
+      "courseId": "C",
+      "unitId": "C-u23",
+      "sessionNo": 23,
+      "date": "11月14日・15日",
+      "dates": [
+        "2026-11-14",
+        "2026-11-15"
+      ],
+      "section": "Flutter SNS",
+      "lesson": "アクセストークンの更新"
+    },
+    {
+      "courseId": "C",
+      "unitId": "C-u24",
+      "sessionNo": 24,
+      "date": "11月21日・22日",
+      "dates": [
+        "2026-11-21",
+        "2026-11-22"
+      ],
+      "section": "Flutter SNS",
+      "lesson": "初期画面の制御"
+    },
+    {
+      "courseId": "C",
+      "unitId": "C-u25",
+      "sessionNo": 25,
+      "date": "11月28日・29日",
+      "dates": [
+        "2026-11-28",
+        "2026-11-29"
+      ],
+      "section": "Flutter SNS",
+      "lesson": "API エンドポイントの定義 - 投稿詳細"
+    },
+    {
+      "courseId": "C",
+      "unitId": "C-u26",
+      "sessionNo": 26,
+      "date": "12月5日・6日",
+      "dates": [
+        "2026-12-05",
+        "2026-12-06"
+      ],
+      "section": "Flutter SNS",
+      "lesson": "投稿詳細 API を呼び出す"
+    },
+    {
+      "courseId": "C",
+      "unitId": "C-u27",
+      "sessionNo": 27,
+      "date": "12月12日・13日",
+      "dates": [
+        "2026-12-12",
+        "2026-12-13"
+      ],
+      "section": "Flutter SNS",
+      "lesson": "投稿画面の作成"
+    },
+    {
+      "courseId": "C",
+      "unitId": "C-u28",
+      "sessionNo": 28,
+      "date": "1月9日・10日",
+      "dates": [
+        "2026-01-09",
+        "2026-01-10"
+      ],
+      "section": "Flutter SNS",
+      "lesson": "投稿削除機能の作成"
+    },
+    {
+      "courseId": "C",
+      "unitId": "C-u29",
+      "sessionNo": 29,
+      "date": "1月16日・17日",
+      "dates": [
+        "2026-01-16",
+        "2026-01-17"
+      ],
+      "section": "Flutter SNS",
+      "lesson": "投稿編集機能の作成"
+    },
+    {
+      "courseId": "C",
+      "unitId": "C-u30",
+      "sessionNo": 30,
+      "date": "1月23日・24日",
+      "dates": [
+        "2026-01-23",
+        "2026-01-24"
+      ],
+      "section": "Flutter SNS",
+      "lesson": "API エンドポイントの定義 - いいね"
+    },
+    {
+      "courseId": "C",
+      "unitId": "C-u31",
+      "sessionNo": 31,
+      "date": "1月30日・31日",
+      "dates": [
+        "2026-01-30",
+        "2026-01-31"
+      ],
+      "section": "Flutter SNS",
+      "lesson": "いいね機能の作成"
+    },
+    {
+      "courseId": "C",
+      "unitId": "C-u32",
+      "sessionNo": 32,
+      "date": "2月6日・7日",
+      "dates": [
+        "2026-02-06",
+        "2026-02-07"
+      ],
+      "section": "Flutter SNS",
+      "lesson": "いいねしたポスト一覧画面"
+    },
+    {
+      "courseId": "C",
+      "unitId": "C-u33",
+      "sessionNo": 33,
+      "date": "2月20日・21日",
+      "dates": [
+        "2026-02-20",
+        "2026-02-21"
+      ],
+      "section": "Flutter SNS",
+      "lesson": "API エンドポイントの定義 - アカウント"
+    },
+    {
+      "courseId": "C",
+      "unitId": "C-u34",
+      "sessionNo": 34,
+      "date": "2月27日・28日",
+      "dates": [
+        "2026-02-27",
+        "2026-02-28"
+      ],
+      "section": "Flutter SNS",
+      "lesson": "マイページ画面"
+    },
+    {
+      "courseId": "C",
+      "unitId": "C-u35",
+      "sessionNo": 35,
+      "date": "3月6日・7日",
+      "dates": [
+        "2026-03-06",
+        "2026-03-07"
+      ],
+      "section": "Flutter SNS",
+      "lesson": "アカウント情報の編集"
+    },
+    {
+      "courseId": "C",
+      "unitId": "C-u36",
+      "sessionNo": 36,
+      "date": "3月13日・14日",
+      "dates": [
+        "2026-03-13",
+        "2026-03-14"
+      ],
+      "section": "Flutter SNS",
+      "lesson": "設定画面の作成"
+    }
+  ]
+}
