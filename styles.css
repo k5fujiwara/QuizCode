@@ -67,22 +67,16 @@ body {
 .brand {
   display: flex;
   align-items: center;
-  gap: 12px;
-}
-
-.brand-mark {
-  width: 12px;
-  height: 32px;
-  border-radius: 4px;
-  background: linear-gradient(180deg, var(--accent), #238636);
-  box-shadow: 0 0 20px rgba(46, 164, 79, 0.35);
 }
 
 .brand-name {
   margin: 0;
-  font-size: clamp(1.35rem, 4vw, 1.75rem);
-  font-weight: 700;
-  letter-spacing: -0.02em;
+}
+
+.brand-logo {
+  display: block;
+  width: min(240px, 70vw);
+  height: auto;
 }
 
 .tagline {
