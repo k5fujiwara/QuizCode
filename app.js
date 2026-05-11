@@ -1,6 +1,4 @@
 /**
- * BeEngineer
- *
  * 単元JSON（data/.../unitXX.json）:
  * { "unit_title": "...", "questions": [ { "question", "options", "answer", "commentary" } ] }
  * answer: 0〜3
@@ -23,8 +21,6 @@
  * }
  *
  * 旧形式: コース直下に "units" だけある場合は、分野名「単元」1つにラップして解釈する。
- *
- * Aコース: 単元IDは A-u1 … A-u36（表示順）。jsonPath は data/A/unit01.json … unit36.json に対応。
  */
 
 const TEST_COUNT = 10;
