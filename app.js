@@ -24,7 +24,7 @@
  */
 
 const TEST_COUNT = 10;
-/** 確認テストの制限時間（秒） */
+/** チャレンジモードの制限時間（秒） */
 const TEST_TIME_LIMIT_SEC = 300;
 /** 管理者確認モードの表示可否。ローカル確認時だけ true にする */
 const ENABLE_ADMIN_MODE = false;
@@ -96,11 +96,11 @@ let currentUnit = null;
 /** @type {'idle'|'homework'|'test'|'admin'} */
 let currentMode = "idle";
 
-/** 宿題: 現在の問題インデックス（0 始まり） */
+/** クイズモード: 現在の問題インデックス（0 始まり） */
 let homeworkCursor = 0;
-/** 宿題: これまでの正解数 */
+/** クイズモード: これまでの正解数 */
 let homeworkScore = 0;
-/** 宿題: 現在の問題に回答済みか */
+/** クイズモード: 現在の問題に回答済みか */
 let homeworkAnswered = false;
 /** 管理者確認: 現在の問題インデックス（0 始まり） */
 let adminCursor = 0;
@@ -620,7 +620,7 @@ function showHomeworkQuestion() {
     return;
   }
 
-  els.homeworkHeading.textContent = `宿題モード — ${currentUnit.unit_title}`;
+  els.homeworkHeading.textContent = `クイズモード — ${currentUnit.unit_title}`;
   els.homeworkComplete.hidden = true;
   els.homeworkCard.hidden = false;
   els.homeworkNext.hidden = true;
@@ -843,7 +843,7 @@ function enterMode(mode) {
   els.adminPanel.hidden = mode !== "admin";
   els.testPanel.hidden = mode !== "test";
   els.modeBadge.textContent =
-    mode === "homework" ? "宿題モード" : mode === "test" ? "確認テストモード" : "管理者確認モード";
+    mode === "homework" ? "クイズモード" : mode === "test" ? "チャレンジモード" : "管理者確認モード";
 
   if (mode === "homework") {
     renderHomework();

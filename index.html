@@ -10,9 +10,9 @@
     <div class="app">
       <header class="header">
         <div class="brand">
-          <h1 class="brand-name">クイズアプリ</h1>
+          <h1 class="brand-name">クイズアプリ（仮称）</h1>
         </div>
-        <p class="tagline">宿題モードまたは確認テストで学習できます。</p>
+        <p class="tagline">クイズモードまたはチャレンジモードで学習できます。</p>
       </header>
 
       <section class="panel setup" id="setupPanel">
@@ -54,8 +54,8 @@
 
         <p class="unit-title-display" id="unitTitleDisplay">単元名: （未読み込み）</p>
         <div class="mode-buttons" id="modeButtons">
-          <button type="button" class="btn btn-primary" id="btnHomework">宿題モード</button>
-          <button type="button" class="btn btn-primary" id="btnTest">確認テストモード</button>
+          <button type="button" class="btn btn-primary" id="btnHomework">クイズモード</button>
+          <button type="button" class="btn btn-primary" id="btnTest">チャレンジモード</button>
           <button type="button" class="btn btn-primary" id="btnAdmin" style="display: none">管理者確認モード</button>
         </div>
       </section>
@@ -67,7 +67,7 @@
         </div>
 
         <section class="panel homework-panel" id="homeworkPanel" hidden>
-          <h2 class="panel-title" id="homeworkHeading">宿題モード</h2>
+          <h2 class="panel-title" id="homeworkHeading">クイズモード</h2>
           <div class="study-progress" id="homeworkProgress" aria-live="polite"></div>
           <div class="test-card" id="homeworkCard">
             <p class="question-text" id="homeworkQuestion"></p>
@@ -78,7 +78,7 @@
             </button>
           </div>
           <div class="completion-banner" id="homeworkComplete" hidden role="status">
-            <strong class="completion-title">宿題、おつかれさま！</strong>
+            <strong class="completion-title">クイズ、おつかれさま！</strong>
             <p class="homework-result-line" id="homeworkScoreSummary"></p>
             <p class="completion-sub" id="homeworkCompleteCheer"></p>
           </div>
@@ -104,7 +104,7 @@
         </section>
 
         <section class="panel test-panel" id="testPanel" hidden>
-          <h2 class="panel-title">確認テスト</h2>
+          <h2 class="panel-title">チャレンジモード</h2>
           <p class="test-unit-line" id="testUnitLine"></p>
           <p class="hint test-intro" id="testIntro"></p>
           <div class="test-progress-sticky-wrap" id="testProgressWrap">
@@ -130,7 +130,7 @@
       <div class="confirm-overlay" id="testBackConfirm" hidden>
         <div class="confirm-dialog panel" role="dialog" aria-modal="true" aria-labelledby="testBackConfirmTitle">
           <h2 class="panel-title" id="testBackConfirmTitle">確認</h2>
-          <p class="confirm-message">確認テストを中断して、コース・単元選択に戻りますか？</p>
+          <p class="confirm-message">チャレンジモードを中断して、コース・単元選択に戻りますか？</p>
           <div class="confirm-actions">
             <button type="button" class="btn btn-primary" id="confirmBackYes">はい</button>
             <button type="button" class="btn btn-secondary" id="confirmBackNo">いいえ</button>

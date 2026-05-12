@@ -336,7 +336,7 @@ body {
   font-size: 0.9rem;
 }
 
-/* 進捗（宿題・テスト共通） */
+/* 進捗（クイズモード・チャレンジモード共通） */
 .study-progress {
   margin: 0 0 18px;
   padding: 14px 14px 16px;
@@ -349,7 +349,7 @@ body {
   background: linear-gradient(180deg, rgba(88, 166, 255, 0.08), transparent);
 }
 
-/* 確認テスト：回答進捗をスクロール時も見えるよう画面上部に追尾 */
+/* チャレンジモード：回答進捗をスクロール時も見えるよう画面上部に追尾 */
 .test-progress-sticky-wrap {
   position: -webkit-sticky;
   position: sticky;
