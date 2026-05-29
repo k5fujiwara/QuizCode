@@ -28,6 +28,16 @@ const TEST_COUNT = 10;
 const TEST_TIME_LIMIT_SEC = 300;
 /** 管理者確認モードの表示可否。ローカル確認時だけ true にする */
 const ENABLE_ADMIN_MODE = false;
+/** デザイン番号。1〜10 の数字を変えると見た目が切り替わる */
+const DESIGN_PATTERN = 1;
+
+function applyDesignPattern() {
+  const themeClassNames = Array.from({ length: 10 }, (_, i) => `theme-design-${i + 1}`);
+  const validPattern = themeClassNames.includes(`theme-design-${DESIGN_PATTERN}`) ? DESIGN_PATTERN : 1;
+  document.body.classList.remove(...themeClassNames);
+  document.body.classList.add(`theme-design-${validPattern}`);
+  document.body.dataset.designPattern = String(validPattern);
+}
 
 /** 10問のとき 8 問以上で合格（問数が少ない単元は 80% 切り上げ） */
 function testPassThreshold(questionCount) {
@@ -1154,6 +1164,7 @@ document.addEventListener("keydown", (e) => {
 });
 
 async function init() {
+  applyDesignPattern();
   if (els.btnAdmin) els.btnAdmin.style.display = ENABLE_ADMIN_MODE ? "inline-flex" : "none";
   if (els.adminPanel) els.adminPanel.hidden = true;
   if (els.testBackConfirm) els.testBackConfirm.hidden = true;

@@ -1,4 +1,5 @@
 :root {
+  --page-bg: #0d1117;
   --bg: #0d1117;
   --surface: #161b22;
   --border: #30363d;
@@ -6,11 +7,194 @@
   --muted: #8b949e;
   --accent: #2ea44f;
   --accent-dim: rgba(46, 164, 79, 0.15);
+  --brand-color: #c9d1d9;
+  --primary-text: #7ee787;
+  --panel-shadow: none;
   --danger: #f85149;
   --danger-dim: rgba(248, 81, 73, 0.18);
   --radius: 12px;
   --font: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Hiragino Sans", "Noto Sans JP", sans-serif;
   --mono: ui-monospace, "SF Mono", Menlo, Consolas, monospace;
+}
+
+.theme-design-1 {
+  --page-bg: #0d1117;
+  --bg: #0d1117;
+  --surface: #161b22;
+  --border: #30363d;
+  --text: #c9d1d9;
+  --muted: #8b949e;
+  --accent: #2ea44f;
+  --accent-dim: rgba(46, 164, 79, 0.15);
+  --brand-color: #c9d1d9;
+  --primary-text: #7ee787;
+  --panel-shadow: none;
+  --danger: #f85149;
+  --danger-dim: rgba(248, 81, 73, 0.18);
+  --radius: 12px;
+  --font: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Hiragino Sans", "Noto Sans JP", sans-serif;
+}
+
+.theme-design-2 {
+  --page-bg: linear-gradient(180deg, #eef6ff 0%, #fffaf0 100%);
+  --bg: #f8fafc;
+  --surface: #ffffff;
+  --border: #cbd5e1;
+  --text: #1e293b;
+  --muted: #64748b;
+  --accent: #2563eb;
+  --accent-dim: rgba(37, 99, 235, 0.12);
+  --brand-color: #1d4ed8;
+  --primary-text: #1d4ed8;
+  --panel-shadow: 0 10px 30px rgba(37, 99, 235, 0.08);
+  --danger: #dc2626;
+  --danger-dim: rgba(220, 38, 38, 0.12);
+  --radius: 14px;
+  --font: "Noto Sans JP", "Yu Gothic UI", "Meiryo", system-ui, sans-serif;
+}
+
+.theme-design-3 {
+  --page-bg: linear-gradient(135deg, #fff1f8 0%, #f0f9ff 48%, #fff7ed 100%);
+  --bg: #fff7fb;
+  --surface: rgba(255, 255, 255, 0.92);
+  --border: #f3c4d8;
+  --text: #3b2632;
+  --muted: #8b5f73;
+  --accent: #ec4899;
+  --accent-dim: rgba(236, 72, 153, 0.14);
+  --brand-color: #be185d;
+  --primary-text: #be185d;
+  --panel-shadow: 0 14px 34px rgba(236, 72, 153, 0.14);
+  --danger: #ef4444;
+  --danger-dim: rgba(239, 68, 68, 0.14);
+  --radius: 22px;
+  --font: "Comic Sans MS", "Hiragino Maru Gothic ProN", "Yu Gothic UI", "Meiryo", cursive, sans-serif;
+}
+
+.theme-design-4 {
+  --page-bg: linear-gradient(180deg, #f0fdf4 0%, #ecfeff 100%);
+  --bg: #f7fee7;
+  --surface: #ffffff;
+  --border: #bbf7d0;
+  --text: #14342b;
+  --muted: #4d7c5a;
+  --accent: #16a34a;
+  --accent-dim: rgba(22, 163, 74, 0.13);
+  --brand-color: #15803d;
+  --primary-text: #15803d;
+  --panel-shadow: 0 12px 30px rgba(22, 163, 74, 0.11);
+  --danger: #dc2626;
+  --danger-dim: rgba(220, 38, 38, 0.12);
+  --radius: 16px;
+  --font: "Trebuchet MS", "Yu Gothic UI", "Meiryo", sans-serif;
+}
+
+.theme-design-5 {
+  --page-bg: radial-gradient(circle at top, #155e75 0%, #082f49 42%, #020617 100%);
+  --bg: #082f49;
+  --surface: rgba(12, 74, 110, 0.88);
+  --border: #38bdf8;
+  --text: #e0f2fe;
+  --muted: #bae6fd;
+  --accent: #22d3ee;
+  --accent-dim: rgba(34, 211, 238, 0.18);
+  --brand-color: #cffafe;
+  --primary-text: #cffafe;
+  --panel-shadow: 0 16px 38px rgba(8, 47, 73, 0.35);
+  --danger: #fb7185;
+  --danger-dim: rgba(251, 113, 133, 0.16);
+  --radius: 18px;
+  --font: "Segoe UI", "Noto Sans JP", "Yu Gothic UI", system-ui, sans-serif;
+}
+
+.theme-design-6 {
+  --page-bg: linear-gradient(135deg, #fff7ed 0%, #ffedd5 50%, #fef3c7 100%);
+  --bg: #fff7ed;
+  --surface: #fffaf0;
+  --border: #fdba74;
+  --text: #431407;
+  --muted: #9a3412;
+  --accent: #f97316;
+  --accent-dim: rgba(249, 115, 22, 0.16);
+  --brand-color: #c2410c;
+  --primary-text: #c2410c;
+  --panel-shadow: 0 12px 30px rgba(249, 115, 22, 0.14);
+  --danger: #dc2626;
+  --danger-dim: rgba(220, 38, 38, 0.13);
+  --radius: 18px;
+  --font: Georgia, "Yu Mincho", "Hiragino Mincho ProN", "Yu Gothic UI", serif;
+}
+
+.theme-design-7 {
+  --page-bg: linear-gradient(180deg, #f5f3ff 0%, #eef2ff 100%);
+  --bg: #faf5ff;
+  --surface: #ffffff;
+  --border: #ddd6fe;
+  --text: #2e1065;
+  --muted: #6d28d9;
+  --accent: #8b5cf6;
+  --accent-dim: rgba(139, 92, 246, 0.14);
+  --brand-color: #6d28d9;
+  --primary-text: #6d28d9;
+  --panel-shadow: 0 12px 32px rgba(109, 40, 217, 0.12);
+  --danger: #e11d48;
+  --danger-dim: rgba(225, 29, 72, 0.12);
+  --radius: 20px;
+  --font: "Century Gothic", "Noto Sans JP", "Yu Gothic UI", "Meiryo", sans-serif;
+}
+
+.theme-design-8 {
+  --page-bg: #f4f4f5;
+  --bg: #ffffff;
+  --surface: #fafafa;
+  --border: #a1a1aa;
+  --text: #18181b;
+  --muted: #52525b;
+  --accent: #27272a;
+  --accent-dim: rgba(39, 39, 42, 0.1);
+  --brand-color: #18181b;
+  --primary-text: #18181b;
+  --panel-shadow: 0 8px 24px rgba(24, 24, 27, 0.08);
+  --danger: #b91c1c;
+  --danger-dim: rgba(185, 28, 28, 0.1);
+  --radius: 8px;
+  --font: Arial, "Helvetica Neue", "Yu Gothic UI", "Meiryo", sans-serif;
+}
+
+.theme-design-9 {
+  --page-bg: #111827;
+  --bg: #1f2937;
+  --surface: #111827;
+  --border: #facc15;
+  --text: #fef3c7;
+  --muted: #fde68a;
+  --accent: #facc15;
+  --accent-dim: rgba(250, 204, 21, 0.17);
+  --brand-color: #facc15;
+  --primary-text: #facc15;
+  --panel-shadow: 0 0 0 3px rgba(250, 204, 21, 0.16);
+  --danger: #f87171;
+  --danger-dim: rgba(248, 113, 113, 0.16);
+  --radius: 4px;
+  --font: "Courier New", "MS Gothic", "Yu Gothic UI", monospace;
+}
+
+.theme-design-10 {
+  --page-bg: linear-gradient(180deg, #fff1f2 0%, #fdf2f8 50%, #f8fafc 100%);
+  --bg: #fff7f7;
+  --surface: rgba(255, 255, 255, 0.94);
+  --border: #fecdd3;
+  --text: #3f1d2b;
+  --muted: #9f6473;
+  --accent: #f43f5e;
+  --accent-dim: rgba(244, 63, 94, 0.13);
+  --brand-color: #be123c;
+  --primary-text: #be123c;
+  --panel-shadow: 0 12px 34px rgba(244, 63, 94, 0.12);
+  --danger: #dc2626;
+  --danger-dim: rgba(220, 38, 38, 0.12);
+  --radius: 24px;
+  --font: "Hiragino Maru Gothic ProN", "Yu Gothic UI", "Meiryo", sans-serif;
 }
 
 *,
@@ -26,7 +210,7 @@ html {
 body {
   margin: 0;
   min-height: 100dvh;
-  background: var(--bg);
+  background: var(--page-bg);
   color: var(--text);
   font-family: var(--font);
   line-height: 1.55;
@@ -68,6 +252,22 @@ body {
   margin-bottom: 24px;
 }
 
+.theme-design-2 .header,
+.theme-design-3 .header,
+.theme-design-4 .header,
+.theme-design-5 .header,
+.theme-design-6 .header,
+.theme-design-7 .header,
+.theme-design-8 .header,
+.theme-design-9 .header,
+.theme-design-10 .header {
+  padding: 18px;
+  border-radius: var(--radius);
+  background: var(--surface);
+  border: 1px solid var(--border);
+  box-shadow: var(--panel-shadow);
+}
+
 .brand {
   display: flex;
   align-items: center;
@@ -75,6 +275,7 @@ body {
 
 .brand-name {
   margin: 0;
+  color: var(--brand-color);
 }
 
 .tagline {
@@ -89,6 +290,18 @@ body {
   border-radius: var(--radius);
   padding: 18px 18px 20px;
   margin-bottom: 18px;
+}
+
+.theme-design-2 .panel,
+.theme-design-3 .panel,
+.theme-design-4 .panel,
+.theme-design-5 .panel,
+.theme-design-6 .panel,
+.theme-design-7 .panel,
+.theme-design-8 .panel,
+.theme-design-9 .panel,
+.theme-design-10 .panel {
+  box-shadow: var(--panel-shadow);
 }
 
 .panel-title {
@@ -285,11 +498,24 @@ body {
 .btn-primary {
   background: var(--accent-dim);
   border-color: var(--accent);
-  color: #7ee787;
+  color: var(--primary-text);
 }
 
 .btn-primary:hover {
   background: rgba(46, 164, 79, 0.28);
+}
+
+.theme-design-2 .btn-primary:hover,
+.theme-design-3 .btn-primary:hover,
+.theme-design-4 .btn-primary:hover,
+.theme-design-5 .btn-primary:hover,
+.theme-design-6 .btn-primary:hover,
+.theme-design-7 .btn-primary:hover,
+.theme-design-8 .btn-primary:hover,
+.theme-design-9 .btn-primary:hover,
+.theme-design-10 .btn-primary:hover {
+  background: var(--accent-dim);
+  filter: brightness(0.98);
 }
 
 .btn-secondary {
